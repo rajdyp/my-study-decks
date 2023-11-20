@@ -59,6 +59,12 @@ Constraints:
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/reverse_an_array.md)
 </details>
 
+### 2. Reverse an array again
+
+<details>
+<summary> Solution  </summary>
+
+</details>
 
 <details>
 <summary> Find the sum of all elements in an array </summary>
