@@ -14,9 +14,9 @@ theme:
   name: material
   features:
     - navigation.tabs
-    # - navigation.sections
-    # - navigation.indexes
-    # - toc.integrate
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
