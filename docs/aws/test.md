@@ -128,6 +128,7 @@ Rotate an array to the right by K positions
 
 ## Strings
 
+1. Check if a string is a palindrome
 <details>
 <summary> Check if a string is a palindrome </summary>
 
@@ -149,7 +150,7 @@ Count the number of vowels and consonants in a string
 > [Problem solution]()
 </details>
 
-
+2.  Reverse a string
 <details>
 <summary> Reverse a string </summary>
 
@@ -231,6 +232,7 @@ Detect a cycle in a linked list
 
 ## Stacks and Queues
 
+1. Implement a stack and perform basic operations (push, pop)
 <details>
 <summary> Implement a stack and perform basic operations (push, pop) </summary>
 
@@ -241,7 +243,7 @@ Implement a stack and perform basic operations (push, pop)
 > [Problem solution]()
 </details>
 
-
+2. Implement a queue and perform basic operations (enqueue, dequeue
 <details>
 <summary> Implement a queue and perform basic operations (enqueue, dequeue) </summary>
 
