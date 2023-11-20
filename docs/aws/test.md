@@ -61,7 +61,7 @@ Constraints:
 <details>
 <summary> Solution  </summary>
  
- <img src="https://github.com/rajdyp/my-study-decks/assets/15313631/5e9810b4-f413-4892-a03b-cea6922b73a3" width="800" height="400" />
+ <img src="https://github.com/rajdyp/my-study-decks/assets/15313631/5e9810b4-f413-4892-a03b-cea6922b73a3" width="1000" height="400" />
 
 </details>
 
