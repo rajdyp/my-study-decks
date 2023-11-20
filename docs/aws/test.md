@@ -5,7 +5,7 @@
 `Arrays`
 ### 1. Find the maximum and minimum element in an array
 <details>
-<summary> </summary>
+<summary> Solution </summary>
 
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
@@ -23,7 +23,7 @@ Constraints:
 
 ### 2. Reverse an array
 <details>
-<summary>  </summary>
+<summary> Solution  </summary>
 
 ```yaml
 Given an array of integers, write a function that reverses the elements of the array in place.
