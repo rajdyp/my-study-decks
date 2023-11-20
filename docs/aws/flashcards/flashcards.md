@@ -1,6 +1,6 @@
 # Data Structures & Algorithms
 
-## Basic problems
+## Basic problems Find the maximum and minimum element in an array
 
 `Arrays`
 
@@ -480,7 +480,7 @@ Find the maximum subarray sum using dynamic programming (Kadane's algorithm)
 </details>
 
 
-## NeetCode 150
+## NeetCode 150 Find the maximum and minimum element in an array Find the maximum and minimum element in an array
 
 <details>
 <summary> Contains duplicate </summary>
