@@ -63,10 +63,7 @@ Constraints:
 
 <details>
 <summary> Solution  </summary>
-![image](https://github.com/rajdyp/rajdyp.github.io/assets/15313631/19e9e74b-1e21-4351-a890-09be17555266)
-
-### Supplementary
-- [Video Explainer](https://www.youtube.com/watch?v=AlkDbnbv7dk)
+![image](https://github.com/rajdyp/my-study-decks/assets/15313631/5e9810b4-f413-4892-a03b-cea6922b73a3)
 
 </details>
 
