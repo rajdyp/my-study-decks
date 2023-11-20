@@ -3,9 +3,9 @@
 ## Basic problems
 
 `Arrays`
-
+### 1. Find the maximum and minimum element in an array
 <details>
-<summary> Find the maximum and minimum element in an array </summary>
+<summary> </summary>
 
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
@@ -21,9 +21,9 @@ Constraints:
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/max_and_min_in_an_array.md)
 </details>
 
-
+### 2. Reverse an array
 <details>
-<summary> Reverse an array </summary>
+<summary>  </summary>
 
 ```yaml
 Given an array of integers, write a function that reverses the elements of the array in place.
