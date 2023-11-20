@@ -7,6 +7,8 @@ nav:
   - Info: aws/aws.md
   - Commmand: aws/aws_cli.md
   - Test: aws/test.md
+  - Flashcards:
+    - Flashcards: aws/flashcards/flashcards.md
 
 theme:
   name: material
