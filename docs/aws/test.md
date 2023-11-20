@@ -60,7 +60,7 @@ Constraints:
 </details>
 
 ### 2. Reverse an array again
-
+![image](https://github.com/rajdyp/my-study-decks/assets/15313631/5e9810b4-f413-4892-a03b-cea6922b73a3)
 <details>
 <summary> Solution  </summary>
 ![image](https://github.com/rajdyp/my-study-decks/assets/15313631/5e9810b4-f413-4892-a03b-cea6922b73a3)
