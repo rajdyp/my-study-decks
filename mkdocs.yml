@@ -4,11 +4,11 @@ site_url: https://rajdyp.github.io/my-study-decks/
 nav:
 - Home: index.md
 - AWS:
+  - Flashcards:
+    - Flashcards: aws/flashcards/flashcards.md
   - Info: aws/aws.md
   - Commmand: aws/aws_cli.md
   - Test: aws/test.md
-  - Flashcards:
-    - Flashcards: aws/flashcards/flashcards.md
 
 theme:
   name: material
