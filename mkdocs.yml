@@ -4,9 +4,9 @@ site_url: https://rajdyp.github.io/my-study-decks/
 nav:
 - Home: index.md
 - AWS:
-  - Info: aws.md
-  - Commmand: aws_cli.md
-  - Test: test.md
+  - Info: aws/aws.md
+  - Commmand: aws/aws_cli.md
+  - Test: aws/test.md
 
 theme:
   name: material
