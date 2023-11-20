@@ -1,7 +1,7 @@
 # Data Structures & Algorithms
 
 ## Arrays
-1. Find the maximum and minimum element in an array
+### 1. Find the maximum and minimum element in an array
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
 a = [5, 2, 9, 1, 5, 6]
@@ -29,7 +29,7 @@ Constraints:
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/max_and_min_in_an_array.md)
 </details>
 
-2. Reverse an array
+### 2. Reverse an array
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
 a = [5, 2, 9, 1, 5, 6]
@@ -57,7 +57,7 @@ Constraints:
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/reverse_an_array.md)
 </details>
 
-3. Reverse an array again
+### 3. Reverse an array again
 <details>
 <summary> Solution  </summary>
  
@@ -128,7 +128,7 @@ Rotate an array to the right by K positions
 
 ## Strings
 
-1. Check if a string is a palindrome
+### 1. Check if a string is a palindrome
 <details>
 <summary> Check if a string is a palindrome </summary>
 
@@ -139,7 +139,7 @@ Check if a string is a palindrome
 > [Problem solution]()
 </details>
 
-2. Count the number of vowels and consonants in a string
+### 2. Count the number of vowels and consonants in a string
 <details>
 <summary> Count the number of vowels and consonants in a string </summary>
 
@@ -150,7 +150,7 @@ Count the number of vowels and consonants in a string
 > [Problem solution]()
 </details>
 
-3.  Reverse a string
+### 3.  Reverse a string
 <details>
 <summary> Reverse a string </summary>
 
@@ -232,7 +232,7 @@ Detect a cycle in a linked list
 
 ## Stacks and Queues
 
-1. Implement a stack and perform basic operations (push, pop)
+### 1. Implement a stack and perform basic operations (push, pop)
 <details>
 <summary> Implement a stack and perform basic operations (push, pop) </summary>
 
@@ -243,7 +243,7 @@ Implement a stack and perform basic operations (push, pop)
 > [Problem solution]()
 </details>
 
-2. Implement a queue and perform basic operations (enqueue, dequeue
+### 2. Implement a queue and perform basic operations (enqueue, dequeue
 <details>
 <summary> Implement a queue and perform basic operations (enqueue, dequeue) </summary>
 
