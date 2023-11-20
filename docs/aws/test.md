@@ -20,7 +20,6 @@ Constraints:
 
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/max_and_min_in_an_array.md)
 </details>
-
 ### 2. Reverse an array
 <details>
 <summary> Solution  </summary>
