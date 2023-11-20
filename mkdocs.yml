@@ -1,6 +1,36 @@
 site_name: My Study Decks
 site_url: https://rajdyp.github.io/my-study-decks/
-site_url: 
+
+nav:
+- Home: index.md
+- AWS:
+    - Fundamentals Series:
+        - Linux Basics:
+            - Introduction: level101/linux_basics/intro.md
+            - Command Line Basics: level101/linux_basics/command_line_basics.md
+            - Server Administration: level101/linux_basics/linux_server_administration.md
+            - Conclusion: level101/linux_basics/conclusion.md
+        - Git:
+            - Git Basics: level101/git/git-basics.md
+            - Working With Branches: level101/git/branches.md
+            - Github and Hooks: level101/git/github-hooks.md
+            - Conclusion: level101/git/conclusion.md
+        - Linux Networking:
+            - Introduction: level101/linux_networking/intro.md
+            - DNS: level101/linux_networking/dns.md
+            - UDP: level101/linux_networking/udp.md
+            - HTTP: level101/linux_networking/http.md
+            - TCP: level101/linux_networking/tcp.md
+            - Routing: level101/linux_networking/ipr.md
+            - Conclusion: level101/linux_networking/conclusion.md
+  - Python:
+    - Fundamentals Series:
+        - Linux Basics:
+            - Introduction: level101/linux_basics/intro.md
+            - Command Line Basics: level101/linux_basics/command_line_basics.md
+            - Server Administration: level101/linux_basics/linux_server_administration.md
+            - Conclusion: level101/linux_basics/conclusion.md
+            
 theme:
   name: material
   features:
