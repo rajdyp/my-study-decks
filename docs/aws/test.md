@@ -1,7 +1,7 @@
 # Data Structures & Algorithms
 
 ## Arrays
-- Find the maximum and minimum element in an array
+`1. Find the maximum and minimum element in an array`
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
 a = [5, 2, 9, 1, 5, 6]
@@ -29,7 +29,7 @@ Constraints:
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/max_and_min_in_an_array.md)
 </details>
 
-- Reverse an array
+`2. Reverse an array`
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
 a = [5, 2, 9, 1, 5, 6]
@@ -57,7 +57,7 @@ Constraints:
 > [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/reverse_an_array.md)
 </details>
 
-- Reverse an array again
+`3. Reverse an array again`
 <details>
 <summary> Solution  </summary>
  
