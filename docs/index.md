@@ -1,5 +1,5 @@
-![image](https://github.com/rajdyp/my-study-decks/assets/15313631/954b25fe-cd67-4f84-ab33-f5294cf0aa4a)
 
+<img src="https://github.com/rajdyp/my-study-decks/assets/15313631/954b25fe-cd67-4f84-ab33-f5294cf0aa4a" width="1200" height="1200" />
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
