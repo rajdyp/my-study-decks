@@ -1,8 +1,6 @@
 # Data Structures & Algorithms
 
-## Basic problems
-
-`Arrays`
+## Arrays
 ### 1. Find the maximum and minimum element in an array
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
@@ -127,7 +125,7 @@ Rotate an array to the right by K positions
 </details>
 
 
-`Strings`
+## Strings
 
 <details>
 <summary> Check if a string is a palindrome </summary>
@@ -230,7 +228,7 @@ Detect a cycle in a linked list
 </details>
 
 
-`Stacks and Queues`
+## Stacks and Queues
 
 <details>
 <summary> Implement a stack and perform basic operations (push, pop) </summary>
