@@ -1,7 +1,7 @@
 # Data Structures & Algorithms
 
 ## Arrays
-`1. Find the maximum and minimum element in an array`
+#### 1. Find the maximum and minimum element in an array
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
 a = [5, 2, 9, 1, 5, 6]
