@@ -3,10 +3,10 @@ site_url: https://rajdyp.github.io/my-study-decks/
 
 nav:
 - Home: index.md
-- AWS:
+- AWS: aws.md
     - Introduction: aws.md
     - Command Line Basics: test.md
-- Python:
+- Python: python_for_coding_interviews.md
     - Introduction: python_for_coding_interviews.md
     - Command Line Basics: est.md
             
