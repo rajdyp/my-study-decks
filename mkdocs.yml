@@ -3,12 +3,17 @@ site_url: https://rajdyp.github.io/my-study-decks/
 
 nav:
 - Home: index.md
+- AWS:
+  - Info: aws.md
+  - Commmand: aws_cli.md
+  - Test: test.md
 
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     # - toc.integrate
     - navigation.top
     - search.suggest
