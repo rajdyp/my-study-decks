@@ -6,30 +6,13 @@ nav:
 - AWS:
     - Fundamentals Series:
         - Linux Basics:
-            - Introduction: level101/linux_basics/intro.md
-            - Command Line Basics: level101/linux_basics/command_line_basics.md
-            - Server Administration: level101/linux_basics/linux_server_administration.md
-            - Conclusion: level101/linux_basics/conclusion.md
-        - Git:
-            - Git Basics: level101/git/git-basics.md
-            - Working With Branches: level101/git/branches.md
-            - Github and Hooks: level101/git/github-hooks.md
-            - Conclusion: level101/git/conclusion.md
-        - Linux Networking:
-            - Introduction: level101/linux_networking/intro.md
-            - DNS: level101/linux_networking/dns.md
-            - UDP: level101/linux_networking/udp.md
-            - HTTP: level101/linux_networking/http.md
-            - TCP: level101/linux_networking/tcp.md
-            - Routing: level101/linux_networking/ipr.md
-            - Conclusion: level101/linux_networking/conclusion.md
+            - Introduction: aws.md
+            - Command Line Basics: test.md
   - Python:
     - Fundamentals Series:
         - Linux Basics:
-            - Introduction: level101/linux_basics/intro.md
-            - Command Line Basics: level101/linux_basics/command_line_basics.md
-            - Server Administration: level101/linux_basics/linux_server_administration.md
-            - Conclusion: level101/linux_basics/conclusion.md
+            - Introduction: python_for_coding_interviews.md
+            - Command Line Basics: est.md
             
 theme:
   name: material
