@@ -1,6 +1,5 @@
 # Data Structures & Algorithms
 
-### 0. Primitive data structures in Python
 <details>
 <summary> Primitive data structures in Python </summary>
 
