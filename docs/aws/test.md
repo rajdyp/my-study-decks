@@ -1,29 +1,8 @@
 # Data Structures & Algorithms
 
-<details>
-<summary> Primitive data structures in Python </summary>
-```md
-| Date Structure | Ordered | Mutable | Allow Duplicate | Constructor   | Example                    |
-| -------------- | ------- |-------- | --------------- | ------------- | -------------------------- |
-| List           | Yes     | Yes     | Yes             | [] or list()  | [5, "yes", 2.7]            |
-| Tuple          | Yes     | No      | Yes             | () or tuple() | (5, "yes", 2.7)            |
-| Dictionary     | Yes     | Yes     | No              | set()         | {"name": "Raj", "age": 35} |
-| Set            | No      | Yes     | NO              | {} or dict()  | {5, "yes", 2.7}            |
-```
-</details>
-
 ## Arrays
-### 1. Find the maximum and minimum element in an array
-```yaml
-Given an array of integers, write a function to find the maximum and minimum elements in the array.
-a = [5, 2, 9, 1, 5, 6]
-Maximum element: 9
-Minimum element: 1
+### [1. Find the maximum and minimum element in an array](https://leetcode.com/problems/contains-duplicate/)
 
-Constraints:
-- The array may be empty, in which case return None for both the maximum and minimum.
-- Find the max and min elements with a time complexity better than O(n) if possible.
-```
 <details>
 <summary> Solution </summary>
 
