@@ -17,7 +17,9 @@ Constraints:
 - Find the max and min elements with a time complexity better than O(n) if possible.
 ```
 
-> [Problem solution](https://github.com/rajdyp/rajdyp.github.io/blob/master/python/solutions/max_and_min_in_an_array.md)
+```md
+[Quip sheet](https://quip.com/nGUcAIF3bnXz/DSA-Leetcode-Spaced-Repetition-Sheet)
+```
 </details>
 
 ### 2. Reverse an array
