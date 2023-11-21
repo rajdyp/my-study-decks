@@ -6,6 +6,10 @@
 <details>
 <summary> Solution </summary>
 
+```md
+[Quip sheet](https://quip.com/nGUcAIF3bnXz/DSA-Leetcode-Spaced-Repetition-Sheet)
+```
+
 ```yaml
 Given an array of integers, write a function to find the maximum and minimum elements in the array.
 a = [5, 2, 9, 1, 5, 6]
@@ -17,9 +21,6 @@ Constraints:
 - Find the max and min elements with a time complexity better than O(n) if possible.
 ```
 
-```md
-[Quip sheet](https://quip.com/nGUcAIF3bnXz/DSA-Leetcode-Spaced-Repetition-Sheet)
-```
 </details>
 
 ### 2. Reverse an array
